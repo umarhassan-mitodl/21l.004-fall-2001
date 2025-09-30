@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "476e9861-df1d-a733-7f89-3372e30989b7",
+  "instructors": {
+    "content": [
+      "574de813-0133-dfd1-1f1f-74ababe0ad61"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cfd540a6-f61f-987b-bd28-986efced4240",
+    "website": "21l-004-major-poets-fall-2001"
+  },
+  "course_title": "Major Poets",
+  "hide_download": true,
+  "course_description": "This subject follows a course of readings in lyric poetry in the English language, tracing the main lines of descent through literary periods from the Renaissance to the modern period and concentrating mostly on English rather than American examples.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.004",
+  "course_image_thumbnail": {
+    "content": "98f8c845-3b3b-30da-ee48-73d103e14014",
+    "website": "21l-004-major-poets-fall-2001"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "site_uid": "7b130b09-ccf1-4a00-8892-e3340b66c28f",
+  "site_short_id": "21l.004-fall-2001",
+  "site_url_path": "courses/21l-004-major-poets-fall-2001",
+  "title": "Course Metadata"
+}
