@@ -31,9 +31,9 @@ Discussion of: Merwin, W. S. *Asian Figures.*
 
 {{< tdclose >}}{{< tdopen >}}
 
-Plath, Sylvia. [*Metaphors*](http://www.poemhunter.com/p/m/poem.asp?poet=6642&poem=510625).
+Plath, Sylvia. {{% resource_link "d0b10416-0d67-499b-8678-8e578fadf30d" "*Metaphors*" %}}.
 
-MacLeish, Archibald. [*Ars Poetica*](http://www.poemhunter.com/p/m/poem.asp?poet=6626&poem=27586).
+MacLeish, Archibald. {{% resource_link "23521ec7-1f6f-4882-a3e7-7ff149253600" "*Ars Poetica*" %}}.
 
 Merwin, W. S. *Asian Figures.*
 
@@ -49,9 +49,9 @@ Discussion of: Shakespeare, William. *Sonnets.*
 
 {{< tdclose >}}{{< tdopen >}}
 
-Wyatt, Thomas. [*Who List to Hunt*](https://www.poetryfoundation.org/poems/45593/whoso-list-to-hunt-i-know-where-is-an-hind), [*They Flee From Me*](http://www.poetryoutloud.org/poems-and-performance/poems/detail/45589).
+Wyatt, Thomas. {{% resource_link "576e77ea-eb9e-46ec-8693-cf6e3efc72a1" "*Who List to Hunt*" %}}, {{% resource_link "d4b38a03-26de-44dd-bd0d-9b23e2d208c6" "*They Flee From Me*" %}}.
 
-Spenser, Edmund. *Sonnets* *10, 15, 22, 67, 68, 75*, [*My Love is Like To Ice*](http://www.poemhunter.com/p/m/poem.asp?poet=3100&poem=29385).
+Spenser, Edmund. *Sonnets* *10, 15, 22, 67, 68, 75*, {{% resource_link "a64b2c04-f486-4859-b61a-bcacb97cb22a" "*My Love is Like To Ice*" %}}.
 
 Shakespeare, William. *Sonnets I, III, XII, XVIII, XX, XXIX, XXX, XXXIII, LI, LIII, LIV, LV, LXV, LXXI, LXXIII, LCIV, CVI, CVII, CXVI, CXXIX, CXXX, CXXXVIII, CXLIV, CXLVI.* ({{% resource_link "ce774d4f-995a-54f1-f6aa-4095f45924aa" "PDF" %}})
 
@@ -198,7 +198,7 @@ John Keats (Discussion Concluded)
 {{< tdclose >}}{{< tdopen >}}
 Discussion of: Butler Yeats, William. *Adam's Curse, Wild Swans at Coole, Easter 1916, The Second Coming, A Prayer for my Daughter, Sailing to Byzantium, Leda and the Swan, The Choice, For Anne Gregory, Crazy Jane Talks with the Bishop, Among School Children, John Kinsella's Lament for Mrs. Mary Moore, Politics.*
 {{< tdclose >}}{{< tdopen >}}
-Butler Yeats, William. [*Adam's Curse*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13770), [*Wild Swans at Coole*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=14059), [*Easter 1916*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=48026), [*The Second Coming*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=14033), [*A Prayer for my Daughter*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13765), [*Sailing to Byzantium*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13877), [*Leda and the Swan*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13848), [*The Choice*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13960), [*For Anne Gregory*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13815), [*Crazy Jane Talks with the Bishop*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=76845), [*Among School Children*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13778), [*John Kinsella's Lament for Mrs. Mary Moore*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=77121), [*Politics*](http://www.poemhunter.com/p/m/poem.asp?poet=3057&poem=13867)*.*
+Butler Yeats, William. {{% resource_link "a4a8d1ae-f74a-4aec-8265-439fb72f45b5" "*Adam's Curse*" %}}, {{% resource_link "3e05528c-d178-4914-9a3b-28123655e5ae" "*Wild Swans at Coole*" %}}, {{% resource_link "c322b2d9-b906-409f-a3bd-e4b577959eb4" "*Easter 1916*" %}}, {{% resource_link "2aee6610-1200-446f-9f60-dbc3ff250488" "*The Second Coming*" %}}, {{% resource_link "618993c4-0829-45d4-9a07-c93df6eedf1b" "*A Prayer for my Daughter*" %}}, {{% resource_link "18b3be2e-b79c-44fe-9b30-2fd72f53cf94" "*Sailing to Byzantium*" %}}, {{% resource_link "225052fb-0355-4063-b03a-bb55c0bcda7a" "*Leda and the Swan*" %}}, {{% resource_link "3d55e647-9a4f-4fcb-9419-b642d95998b5" "*The Choice*" %}}, {{% resource_link "a7f954bc-af0a-44ef-b04e-dccbbd23423b" "*For Anne Gregory*" %}}, {{% resource_link "947aed85-5bc5-4ab9-a729-cc3cda2673e0" "*Crazy Jane Talks with the Bishop*" %}}, {{% resource_link "be427a77-7af7-4608-9688-3c796c5d461d" "*Among School Children*" %}}, {{% resource_link "e9fd4b77-720f-445c-b8ac-1bf130e2a1b5" "*John Kinsella's Lament for Mrs. Mary Moore*" %}}, {{% resource_link "d890d3c6-5c0f-4707-9e15-d029f478db74" "*Politics*" %}}*.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -219,34 +219,34 @@ Discussion of: Stevens, Wallace. *Death of a Soldier, The Snow Man, The Emperor 
 
 {{< tdclose >}}{{< tdopen >}}
 
-Arnold, Matthew. [*Dover Beach*](http://www.poemhunter.com/p/m/poem.asp?poet=3009&poem=13023).
+Arnold, Matthew. {{% resource_link "b4c25a79-3254-494d-9776-f7761e94353b" "*Dover Beach*" %}}.
 
-Stevens, Wallace. *Death of a Soldier,* [*The Snow Man*](http://www.poemhunter.com/p/m/poem.asp?poem=28802)*,* [*The Emperor of Ice-Cream*](http://www.poemhunter.com/p/m/poem.asp?poet=6687&poem=29299)*, Tea at the Palaz of Hoon, On the Manner of Addressing Clouds,* [*Sunday Morning*](http://www.poemhunter.com/p/m/poem.asp?poet=6687&poem=28803)*,* [*Anecdote of the Jar*](http://www.poemhunter.com/p/m/poem.asp?poet=6687&poem=29358)*,* [*Peter Quince at the Clavier*](http://www.poemhunter.com/p/m/poem.asp?poet=6687&poem=29301)*,* [*The Idea of Order at Key West*](http://www.poemhunter.com/p/m/poem.asp?poet=6687&poem=29367)*.*
+Stevens, Wallace. *Death of a Soldier,* {{% resource_link "948d08e4-faf0-4e8f-aa8f-edf07f5fada8" "*The Snow Man*" %}}*,* {{% resource_link "521a4fc8-bb61-48b4-ad8d-15236d6fd4f8" "*The Emperor of Ice-Cream*" %}}*, Tea at the Palaz of Hoon, On the Manner of Addressing Clouds,* {{% resource_link "52df69be-1af0-4174-bdda-dbe4499e86bb" "*Sunday Morning*" %}}*,* {{% resource_link "49552741-698b-4e95-a5ef-e9978982d4a0" "*Anecdote of the Jar*" %}}*,* {{% resource_link "7eb15798-56ba-4d3f-894f-acd5fdf474fe" "*Peter Quince at the Clavier*" %}}*,* {{% resource_link "208b8e2c-d7f6-4cc1-b8c8-ef10f37e9dbf" "*The Idea of Order at Key West*" %}}*.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
 Discussion of: Frost, Robert. *The Oven* *Bird, Birches, Stopping by Woods, Acquainted with the Night, Neither Far* *Out nor In Deep, Design, The Silken* *Tent, Come In, Never Again Would* *Birdsong be the Same, The Most of It,* *Directive.*
 {{< tdclose >}}{{< tdopen >}}
-Frost, Robert. [*The Oven Bird*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=35853)*,* [*Birches*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=34221)*,* [*Stopping by Woods*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=30795)*,* [*Acquainted with the Night*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=30815)*,* [*Neither Out Far nor In Deep*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=35885)*,* [*Design*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=35873)*,* [*The Silken Tent*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=26940)*,* [*Come In*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=34188)*,* [*Never Again Would Birdsong be the Same*](http://www.poemhunter.com/p/m/poem.asp?poet=6604&poem=29664)*, The Most of It, Directive.*
+Frost, Robert. {{% resource_link "5d6cbe1e-37ff-4a80-bc1b-f189ee14f4c4" "*The Oven Bird*" %}}*,* {{% resource_link "6ab976b8-bd72-40df-b68e-56875454a4c6" "*Birches*" %}}*,* {{% resource_link "450d9b82-5f3a-43fd-b893-c9a93a2caee0" "*Stopping by Woods*" %}}*,* {{% resource_link "37ca90db-f5bd-4412-aa77-1b576d1ffb05" "*Acquainted with the Night*" %}}*,* {{% resource_link "915f2055-933c-45be-ac80-deffdda21d05" "*Neither Out Far nor In Deep*" %}}*,* {{% resource_link "0b817810-f647-4725-8bbc-998340579119" "*Design*" %}}*,* {{% resource_link "b63380da-2497-4660-986b-1eba2590a4c3" "*The Silken Tent*" %}}*,* {{% resource_link "aa1ab78a-8b49-49e6-8273-754eb2953fb8" "*Come In*" %}}*,* {{% resource_link "672e27c4-bfd6-462d-a0b5-21a0eb38da27" "*Never Again Would Birdsong be the Same*" %}}*, The Most of It, Directive.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
 Discussion of: Eliot, T. S. *The Love Song of J. Alfred Prufrock, The Waste Land.*
 {{< tdclose >}}{{< tdopen >}}
-Eliot, T. S. [*The Love Song of J. Alfred Prufrock*](https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock) , [*The Waste Land*](http://rpo.library.utoronto.ca/poems/waste-land) *.*
+Eliot, T. S. {{% resource_link "00c9ce47-60a4-4c3e-81ef-ba9604d6900f" "*The Love Song of J. Alfred Prufrock*" %}} , {{% resource_link "5e8440bc-6451-4889-ae48-b2f2aaf1f121" "*The Waste Land*" %}} *.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
 Discussion of: Auden, W. H. *As I Walked Out One Evening, Funeral Blues, Lullaby, Musée des Beaux Arts, In Memory of W. B. Yeats.*
 {{< tdclose >}}{{< tdopen >}}
-Auden, W. H. [*As I Walked Out One Evening*](https://poets.org/poem/i-walked-out-one-evening)*,* *Funeral Blues,* [*Lullaby*](https://poets.org/poem/lullaby-0)*,* [*Musée des Beaux Arts*](http://english.emory.edu/classes/paintings&poems/auden.html)*,* [*In Memory of W. B. Yeats*](https://poets.org/poem/memory-w-b-yeats)*.*
+Auden, W. H. {{% resource_link "6c55e737-945c-4c06-8182-7287fcb2893a" "*As I Walked Out One Evening*" %}}*,* *Funeral Blues,* {{% resource_link "70d80cea-850e-4dcd-96f5-f5c61667056e" "*Lullaby*" %}}*,* {{% resource_link "8feb3e85-0ec8-4a19-9aca-d150d8c5b4b1" "*Musée des Beaux Arts*" %}}*,* {{% resource_link "0dbfca00-2194-4a14-b00d-6ad4f8ba6097" "*In Memory of W. B. Yeats*" %}}*.*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
 {{< tdclose >}}{{< tdopen >}}
 Discussion of: Larkin, Philip. *Church Going, An Arundel* *Tomb, Talking in Bed, Aubade, Essential Beauty, High* *Windows, The Whitsun Weddings.*
 {{< tdclose >}}{{< tdopen >}}
-Larkin, Philip. [*Church Going*](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=34852), [*An Arundel Tomb*](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=31857), [*Talking in Bed*](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=29565), [*Aubade*](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=36480), [*Essential Beauty*](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=33804), [*High Windows*](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=32472), [*The Whitsun Weddings*](http://www.poemhunter.com/p/m/poem.asp?poet=6611&poem=31835).
+Larkin, Philip. {{% resource_link "1eeb5931-781d-4c26-ac90-0be6f28a43b6" "*Church Going*" %}}, {{% resource_link "709117f6-2afc-4d5e-8dec-cc7107e6373f" "*An Arundel Tomb*" %}}, {{% resource_link "749fc679-5b2e-46f5-ae7c-139f00330599" "*Talking in Bed*" %}}, {{% resource_link "c5f51cf3-f05a-4ce3-b3d1-a6e5c9843cba" "*Aubade*" %}}, {{% resource_link "7c1e17d8-4d1d-4a32-8deb-6cd6f397865a" "*Essential Beauty*" %}}, {{% resource_link "055eb73a-a6dc-494e-9047-92556f53cb2c" "*High Windows*" %}}, {{% resource_link "8af69595-d5bd-42a0-972a-9041221691ef" "*The Whitsun Weddings*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
