@@ -4,8 +4,6 @@ description: This resource includes a version of the poem is provided by John Ke
 file: /courses/21l-004-major-poets-fall-2001/f1b61a02ec4a8acc06387ccfbb9f6360_keats_grasshopp.pdf
 file_size: 45940
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

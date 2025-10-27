@@ -5,8 +5,6 @@ description: This resource provides information on writing a reading on one of t
 file: /courses/21l-004-major-poets-fall-2001/61bd27b60ac79b5be9acab27d6cd2f75_third_assignment.pdf
 file_size: 78794
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
